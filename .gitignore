@@ -1,0 +1,9 @@
+# Ignorar archivos que no queremos subir
+Preparacion_Taller_2.pdf
+Taller2.zip
+
+# Ignorar carpetas y archivos temporales comunes
+.vscode/
+*.log
+Thumbs.db
+.DS_Store
